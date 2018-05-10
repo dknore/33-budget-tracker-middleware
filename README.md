@@ -25,7 +25,7 @@
 ## Requirements  
 #### Feature Tasks
 * complete all remaining lab 31 and 32 feature tasks
-* add a reporter middleware to your application's redux store
+* add a `logger` middleware to your application's redux store
 * add validation to your redux reducers
 
 Decide what validation you want to add to your reducers. Ideas might include:
