@@ -1,0 +1,55 @@
+body {
+  background-color: rgb(237, 248, 248);;
+  font-family: 'Courier New';
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+ul {
+  display: inline-flex;
+}
+
+#add-cat {
+  margin-bottom: 2em;
+}
+
+#budget-item {
+  padding-right: 1em;
+  // padding-left: 0;
+}
+
+ol {
+  list-style-type: decimal;
+}
+
+#category-list {
+  padding-top: 2em;
+}
+
+#catList {
+  padding-bottom: 2em;
+  padding-left: 0;
+  list-style-type: decimal;
+  display:list-item;
+}
+
+#expense-list {
+  padding-left: 2.5em;
+  list-style-type: disc;
+}
+
+#update-item {
+  padding-left: 0;
+}
+
+#remove-button {
+  margin-left: 2.5em;
+}
+// #cancel-button {
+//   float: right;
+// }
+
+#list-budget {
+  list-style: none;
+  padding-right: 1em;
+}
